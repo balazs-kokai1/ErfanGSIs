@@ -38,8 +38,8 @@ if [ "${EUID}" -ne 0 ]; then
 fi
 
 # Welcome Message
-echo "-> Note: This fork is derived from PriiiiyoGSIs, the predecessor of the old HeliosGSIs foundation (2019-2020)."
-echo " - This branch is private, the public repository is available on PriiiiyoGSI's GitHub."
+echo "-> Note: This fork is derived from XenonGSIs, the predecessor of the old HeliosGSIs foundation (2019-2020)."
+echo " - This branch is private, the public repository is available on GSI-Workshop's GitHub."
 
 # Util functions
 usage() {
