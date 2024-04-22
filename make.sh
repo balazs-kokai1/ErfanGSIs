@@ -286,7 +286,7 @@ if [ "$outputtype" == "Aonly" ]; then
 fi
 
 # Out info
-outputname="GSI-Workshop[$romtypename]-[$codename]-[GSI+SGSI]-[$displayid]-[$outputtype]-[$sourcever]-[$date-$hashdate]"
+outputname="[$outputtype]-[$date-$hashdate]-nugu"
 outputimagename="$outputname".img
 outputtextname="$outputname".txt
 outputvendoroverlaysname="GSI-Workshop[$romtypename]-[$codename]-[GSI+SGSI]-[$displayid]-[$sourcever]-[$date-$hashdate]-VendorOverlays.tar.gz"
